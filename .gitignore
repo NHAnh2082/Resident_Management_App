@@ -1,0 +1,22 @@
+# Ignore build outputs
+Build/
+*.o
+*.exe
+*.out
+
+# Ignore audit and database (auto-generated, user data)
+audit.log
+Resident_Database.csv
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups
+*~
