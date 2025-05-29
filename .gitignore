@@ -4,10 +4,6 @@ Build/
 *.exe
 *.out
 
-# Ignore audit and database (auto-generated, user data)
-audit.log
-Resident_Database.csv
-
 # OS-specific junk
 .DS_Store
 Thumbs.db
